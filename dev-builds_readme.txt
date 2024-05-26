@@ -1,0 +1,1 @@
+Dev-builds, aka snapshots will be released once legendarys can spawn alongside their structure.
